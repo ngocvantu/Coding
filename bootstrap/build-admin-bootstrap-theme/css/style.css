@@ -1,0 +1,14 @@
+body {
+    background: #f4f4f4;
+}
+
+.navbar {
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-nav > li > a { 
+    height: 33px !important; 
+}
+
